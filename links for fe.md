@@ -1,1 +1,3 @@
 [how to combine typescript and jest](https://dev.to/muhajirdev/unit-testing-with-typescript-and-jest-2gln)
+
+[debug jest with vscode](https://www.jianshu.com/p/2e5bc67af153)
